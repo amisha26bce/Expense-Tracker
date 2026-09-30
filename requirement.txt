@@ -1,0 +1,3 @@
+# Personal Expense Tracker
+# No external packages are required.
+# Python 3.x is required.
